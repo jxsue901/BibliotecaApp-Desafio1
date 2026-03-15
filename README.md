@@ -43,9 +43,9 @@ cd BibliotecaApp
 1. Descargar y descomprimir el archivo `BibliotecaApp.zip`
 2. Extraer en una carpeta de fácil acceso (ej. `C:\Proyectos\BibliotecaApp`)
 
-### Paso 2 — Abrir en Visual Studio 2019
+### Paso 2 — Abrir en Visual Studio 
 
-1. Abrir **Visual Studio 2019**
+1. Abrir **Visual Studio 
 2. Ir a **Archivo → Abrir → Proyecto/Solución...**
 3. Navegar hasta la carpeta del proyecto
 4. Seleccionar el archivo `BibliotecaApp.sln` y clic en **Abrir**
