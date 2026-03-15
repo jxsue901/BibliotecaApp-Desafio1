@@ -1,0 +1,19 @@
+# Build outputs
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.cache
+
+# NuGet
+packages/
+*.nupkg
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
